@@ -7,7 +7,7 @@ import static com.codeborne.selenide.Condition.*;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 
-class FormTest {
+class aqa21Test {
     @Test
     void shouldSubmitForm(){
         open("http://localhost:9999/");
